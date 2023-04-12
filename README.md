@@ -1,2 +1,2 @@
 # Algoritmos y estructi
-Cielo Sanchez uezo
+Cielo Sanchez  Buezo
