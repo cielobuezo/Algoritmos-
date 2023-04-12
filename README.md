@@ -1,2 +1,2 @@
-# Algoritmos y estructi
+# Tarea Algoritmos
 Cielo Sanchez  Buezo
